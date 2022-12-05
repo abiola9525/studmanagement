@@ -1,4 +1,4 @@
-# Django Student Management System (beta)
+# Django Student Management System 
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
 
 
@@ -37,21 +37,6 @@ This is a Simple Student Management System Developed for Educational Purpose usi
 
 
 
-
-
-	*Login Details
-
-*For HOD /SuperAdmin*
-Email: admin@gmail.com
-Password: admin
-
-*For Staff*
-Email: staff@gmail.com
-Password: staff
-
-*For Student*
-Email: student@gmail.com
-Password: student
 
 
 
